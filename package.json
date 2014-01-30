@@ -1,0 +1,25 @@
+{
+  "name": "proton",
+  "version": "0.0.1",
+  "description": "Parese throught PSD and its layers to process them",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://dsirnk@github.com/dsirnk/psd.git"
+  },
+  "author": "Ronak Desai",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/dsirnk/psd/issues"
+  },
+  "homepage": "https://github.com/dsirnk/psd",
+  "devDependencies": {
+    "psd": "0.0.4",
+    "jade": "~1.1.5",
+    "express": "~3.4.8",
+    "socket.io": "~0.9.16"
+  }
+}
